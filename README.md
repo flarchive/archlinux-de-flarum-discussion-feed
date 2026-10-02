@@ -4,7 +4,16 @@ This repository is a permanent, read-only archive of released versions of `archl
 
 > **Not affiliated with the Flarum Foundation or the Flarum project.**
 
-- Archived versions are stored as tags: `archive/vX.Y.Z`
+## Quick Download
+
+- **Latest Archived Version:** `1.0.2`
+- **Flarum Compatibility:** `^1.6.0`
+- **Direct Download (.zip):** [Download 1.0.2 (.zip)](https://github.com/flarchive/archlinux-de-flarum-discussion-feed/archive/refs/tags/archive/v1.0.2.zip)
+- **All Releases & Tags:** [View All Releases & Tags](https://github.com/flarchive/archlinux-de-flarum-discussion-feed/tags)
+
+## Archive Catalog
+
+- **Catalog Entry (JSON):** [View manifest](https://github.com/flarchive/archive-index/blob/main/packages/archlinux-de-flarum-discussion-feed.json)
 - Upstream repository: https://github.com/archlinux-de/flarum-discussion-feed.git
 - Issues, pull requests, discussions, and wiki are disabled on this repository.
 
